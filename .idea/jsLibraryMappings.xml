@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{@types/ace-diff, @types/acl, @types/actioncable, @types/assert-plus, @types/fs-extra-promise-es6, @types/ganache-core, @types/mocha, @types/path-exists, @types/requirejs, @types/solidity-parser-antlr, @types/streamjs, @types/web3, @types/web3-provider-engine}" />
+    <includedPredefinedLibrary name="HTTP Response Handler" />
+    <includedPredefinedLibrary name="Nashorn" />
+  </component>
+</project>

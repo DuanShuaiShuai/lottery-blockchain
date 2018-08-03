@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="@types/ace-diff" level="application" />
+    <orderEntry type="library" name="@types/acl" level="application" />
+    <orderEntry type="library" name="@types/actioncable" level="application" />
+    <orderEntry type="library" name="@types/assert-plus" level="application" />
+    <orderEntry type="library" name="@types/fs-extra-promise-es6" level="application" />
+    <orderEntry type="library" name="@types/ganache-core" level="application" />
+    <orderEntry type="library" name="@types/mocha" level="application" />
+    <orderEntry type="library" name="@types/path-exists" level="application" />
+    <orderEntry type="library" name="@types/requirejs" level="application" />
+    <orderEntry type="library" name="@types/solidity-parser-antlr" level="application" />
+    <orderEntry type="library" name="@types/streamjs" level="application" />
+    <orderEntry type="library" name="@types/web3" level="application" />
+    <orderEntry type="library" name="@types/web3-provider-engine" level="application" />
+  </component>
+</module>
